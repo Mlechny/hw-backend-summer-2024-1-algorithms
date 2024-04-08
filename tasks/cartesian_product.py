@@ -1,3 +1,4 @@
+import itertools
 from typing import TypeVar
 
 __all__ = ("cartesian_product",)
