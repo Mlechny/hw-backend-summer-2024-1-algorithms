@@ -1,3 +1,4 @@
+from queue import LifoQueue, Queue
 from typing import TypeVar, Generic
 
 __all__ = ("Node", "Graph")
